@@ -44,3 +44,6 @@ fabric.properties
 
 # Mac OS Files
 .DS_store
+
+#Miscellaneous
+npm-debug.log
