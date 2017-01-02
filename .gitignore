@@ -47,3 +47,4 @@ fabric.properties
 
 #Miscellaneous
 npm-debug.log
+node_modules/
